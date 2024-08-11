@@ -1,4 +1,14 @@
-# Olá, meu nome é Tayná 
+# Olá, meu nome é Tayná :) 
+
+Graduada em Ciências Sociais e Mestre em Antropologia (UFAM). Pesquisadora e aspirante a Analista de Dados.
+</p>
+
+<h3 align="center">Curiosidades em Desenvolvimento</h3>
+
+<p align="center">
+  Python | Pandas | NumPy | Matplotlib | Seaborn | Spark | SQL | NoSQL | MongoDB | Data Lake | Data Warehouse | ETL | Big Query | Google Cloud Plataform (GCP) | PowerBI | Looker Studio | Tableau | Git | Machine Learning | IA
+</p>
+
 ## Subtitulo 
 ### SubTopico
 
