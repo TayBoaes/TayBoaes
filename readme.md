@@ -1,8 +1,8 @@
-# Olá, meu nome é Tayná Boaes
+# Olá, meu nome é Tayná 
 ## Subtitulo 
 ### SubTopico
 
-paragrafo normal
+Graduada em Ciências Sociais e Mestre em Antropologia (UFAM). Pesquisadora e aspirante a Analista de Dados.
 
 Descrição
 
