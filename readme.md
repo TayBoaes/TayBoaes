@@ -1,3 +1,4 @@
+<h3 align="center">Olá, meu nome é Tayná :) </h3>
 # Olá, meu nome é Tayná :) 
 
 Graduada em Ciências Sociais e Mestre em Antropologia (UFAM). Pesquisadora e aspirante a Analista de Dados.
